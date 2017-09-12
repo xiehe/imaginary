@@ -1,4 +1,23 @@
 
+v1.0.7 / 2017-09-11
+===================
+
+  * feat(version): bump to v1.0.6
+
+v1.0.6 / 2017-09-11
+===================
+
+  * feat(bimg): upgrade to v1.0.13
+  * feat(version): bump to v1.0.6
+
+
+v1.0.5 / 2017-09-10
+===================
+
+  * feat(params): add stripmeta params
+  * feat(bimg): use bimg v1.0.12
+  * feat(Docker): upgrade Go version to 1.9 in Docker image
+
 v1.0.4 / 2017-08-21
 ===================
 
